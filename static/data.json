@@ -1,0 +1,234 @@
+[
+  {
+    "guid": "asdfasdfsas",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "empire",
+    "account": "trae@traeblain.com",
+    "color": "indigo",
+    "shortname": "The Empire"
+  },
+  {
+    "guid": "gu5jjr567ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "resistance",
+    "account": "trae@traeblain.com",
+    "color": "red",
+    "shortname": "Rebellion"
+  },
+  {
+    "guid": "gu545z567ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "ellipsis-h",
+    "account": "trae@traeblain.com",
+    "color": "red darken-3",
+    "shortname": "LastPass"
+  },
+  {
+    "guid": "gu5jfgb67ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "gitlab",
+    "account": "trae@traeblain.com",
+    "color": "black",
+    "shortname": "GitLab"
+  },
+  {
+    "guid": "gu5jjqwe7ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "google",
+    "account": "trae@traeblain.com",
+    "color": "light-blue",
+    "shortname": "Google"
+  },
+  {
+    "guid": "gjghjr567ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "amazon",
+    "account": "trae@traeblain.com",
+    "color": "amber",
+    "shortname": "Amazon"
+  },
+  {
+    "guid": "uoijjr567ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "bitbucket",
+    "account": "trae@traeblain.com",
+    "color": "blue",
+    "shortname": "Bitbucket"
+  },
+  {
+    "guid": "gu5jjwr47ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "btc",
+    "account": "trae@traeblain.com",
+    "color": "yellow",
+    "shortname": "BitCoin"
+  },
+  {
+    "guid": "gu5jjrzxcvi",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "dropbox",
+    "account": "trae@traeblain.com",
+    "color": "blue",
+    "shortname": "Dropbox"
+  },
+  {
+    "guid": "gu5jjr5poii",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "github",
+    "account": "trae@traeblain.com",
+    "color": "grey",
+    "shortname": "Github"
+  },
+  {
+    "guid": "gurtyr567ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "linux",
+    "account": "trae@traeblain.com",
+    "color": "brown",
+    "shortname": "VPS SSH"
+  },
+  {
+    "guid": "cvbjjr567ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "pied-piper-pp",
+    "account": "trae@traeblain.com",
+    "color": "green",
+    "shortname": "Pied Piper"
+  },
+  {
+    "guid": "gu5jjr56890",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "slack",
+    "account": "trae@traeblain.com",
+    "color": "cyan",
+    "shortname": "Slack"
+  },
+  {
+    "guid": "gu545z567ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "yahoo",
+    "account": "trae@traeblain.com",
+    "color": "deep-purple",
+    "shortname": "Yahoo"
+  },
+  {
+    "guid": "gu5jjr56qwe",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "windows",
+    "account": "trae@traeblain.com",
+    "color": "blue",
+    "shortname": "Outlook.com"
+  },
+  {
+    "guid": "gu5jjr567ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "envelope",
+    "account": "trae@traeblain.com",
+    "color": "lime",
+    "shortname": "Email"
+  },
+  {
+    "guid": "asdfasdfsas",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "key",
+    "account": "trae@traeblain.com",
+    "color": "pink",
+    "shortname": "Unknown"
+  },
+  {
+    "guid": "gu5jjr567ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "snapchat",
+    "account": "trae@traeblain.com",
+    "color": "yellow",
+    "shortname": "Snapchat"
+  },
+  {
+    "guid": "gu5jfgb67ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "twitter",
+    "account": "trae@traeblain.com",
+    "color": "light-blue",
+    "shortname": "Twitter"
+  },
+  {
+    "guid": "gu5jjqwe7ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "tumblr",
+    "account": "trae@traeblain.com",
+    "color": "blue darken-4",
+    "shortname": "Tumblr"
+  },
+  {
+    "guid": "gjghjr567ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "wordpress",
+    "account": "trae@traeblain.com",
+    "color": "grey darken-3",
+    "shortname": "Wordpress"
+  },
+  {
+    "guid": "uoijjr567ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "cc-stripe",
+    "account": "trae@traeblain.com",
+    "color": "cyan",
+    "shortname": "Stripe"
+  },
+  {
+    "guid": "gu5jjwr47ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "comment",
+    "account": "trae@traeblain.com",
+    "color": "deep-purple accent-3",
+    "shortname": "Discord"
+  },
+  {
+    "guid": "gu5jjrzxcvi",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "gamepad",
+    "account": "trae@traeblain.com",
+    "color": "black",
+    "shortname": "Electronic Arts"
+  },
+  {
+    "guid": "gu5jjr5poii",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "facebook",
+    "account": "trae@traeblain.com",
+    "color": "indigo",
+    "shortname": "Facebook"
+  },
+  {
+    "guid": "gurtyr567ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "linode",
+    "account": "trae@traeblain.com",
+    "color": "green darken-2",
+    "shortname": "Linode"
+  },
+  {
+    "guid": "cvbjjr567ki",
+    "secret": "0",
+    "icon": "steam",
+    "account": "trae@traeblain.com",
+    "color": "black",
+    "shortname": "Steam"
+  },
+  {
+    "guid": "gu5jjr56890",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "moon-o",
+    "account": "trae@traeblain.com",
+    "color": "light-blue darken-4",
+    "shortname": "DreamHost"
+  },
+  {
+    "guid": "gu545z567ki",
+    "secret": "KEYWOMLZMMVWIULRLBTGOTDUPJYFGRCY",
+    "icon": "terminal",
+    "account": "trae@traeblain.com",
+    "color": "blue-grey",
+    "shortname": "SSH"
+  }
+]
